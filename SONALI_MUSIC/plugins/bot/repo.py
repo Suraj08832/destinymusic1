@@ -13,7 +13,7 @@ start_txt = """**
  
 ❉ ᴘᴧʜʟє ᴘᴧᴘᴧ ʙσʟ ʀєᴘᴏ ᴏᴡηєʀ ᴋᴏ 
 
-✼ || [ʙᴀ∂иᴀᴍ-ʙᴧʙʏ](https://t.me/About_badnam_xd) ||
+✼ || [ʙᴀ∂иᴀᴍ-ʙᴧʙʏ](https://t.me/about_zefron) ||
  
 ❊ ʀᴜη 24x7 ʟᴧɢ ϝʀєє ᴡɪᴛʜσᴜᴛ sᴛσᴘ**
 """
@@ -28,8 +28,8 @@ async def start(_, msg):
           InlineKeyboardButton("✙ ᴧᴅᴅ ϻє вᴧʙʏ ✙", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")
         ],
         [
-          InlineKeyboardButton("• ʜєʟᴘ •", url="https://t.me/About_badnam_xd"),
-          InlineKeyboardButton("• 𝛅ᴜᴘᴘσʀᴛ •", url="https://t.me/About_badnam_xd"),
+          InlineKeyboardButton("• ʜєʟᴘ •", url="https://t.me/about_zefron"),
+          InlineKeyboardButton("• 𝛅ᴜᴘᴘσʀᴛ •", url="https://t.me/about_zefron"),
           ],
 [
 InlineKeyboardButton("• ϻᴧɪη ʙσᴛ •", url=f"https://t.me/Kriti_x_robot"),
